@@ -20,3 +20,6 @@ Piranavan Ratnarajah - RAT22528167
 **SkyNav** - A distributed database that combines relational (PostgreSQL) and NoSQL (MongoDB) systems, a cloud-based server for safe data processing and storage, and a mobile application enabling pilots to access real-time navigation data make up the FlightPilot system design. Through Wi-Fi, satellite communication, and cellular networks, it guarantees dependable connectivity.
 
 **Pharmalink** - Medical practitioners may safely store, retrieve, and exchange patient data with MedSafe, a secure electronic health record (EHR) management solution. It lowers medication mistakes and improves care coordination. The system uses robust security features like encryption and access controls in accordance with HIPAA regulations.
+
+We chose the case studies SkyNav (low risk appetite) and PharmaLink (high risk appetite) because they represent different industries—aviation and healthcare. This matches our group's interests in space and medical fields. By selecting these two, we can explore a range of cybersecurity approaches, comparing how each industry manages risks and secures important systems. 
+
