@@ -1,0 +1,26 @@
+{
+  "version": "v2.3.0-RC1",
+  "summary": {
+    "title": "PharmaLink Threat Model",
+    "owner": "Piranavan Ratnarajah - RAT22528167,  Stephen Johnson - A00038610",
+    "description": "PharmaLink's Electronic Health Record (EHR) management system, MedSafe, was developed for secure handling, storage, and access to patient data by healthcare professionals.   ",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "PharmaLink STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "v2.3.0-RC1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
