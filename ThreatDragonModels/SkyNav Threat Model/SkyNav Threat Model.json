@@ -1,0 +1,26 @@
+{
+  "version": "v2.3.0-RC1",
+  "summary": {
+    "title": "SkyNav Threat Model",
+    "owner": "Piranavan Ratnarajah - RAT22528167 , Stephen Johnson - A00038610",
+    "description": "SkyNav -FlightPilot is a navigation tool for professional pilots that integrates real-time data and predictive analytics to improve situational awareness. It streamlines navigation, enabling faster, more informed decision-making and reducing flight time. With live data updates, FlightPilot helps pilots adapt to changing conditions efficiently. By simplifying navigation tasks, it allows pilots to focus more on critical aspects of the flight, enhancing safety and operational efficiency.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "v2.3.0-RC1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
