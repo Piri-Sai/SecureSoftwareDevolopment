@@ -125,6 +125,13 @@
               "hasOpenThreats": false,
               "providesAuthentication": true,
               "threats": []
+            },
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove"
+              ],
+              "name": null
             }
           },
           {
@@ -1201,13 +1208,6 @@
               "storesCredentials": false,
               "storesInventory": false,
               "threats": []
-            },
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove"
-              ],
-              "name": null
             }
           },
           {
